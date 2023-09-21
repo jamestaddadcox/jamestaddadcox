@@ -2,7 +2,7 @@
 
 ### About Me
 
-I’m Tadd, and I’m a software developer, a writer, and an editor at an <a href="[https://www.alwayscrashing.com/](https://www.alwayscrashing.com/)" target="_blank">experimental online literary magazine</a>.
+I’m Tadd, and I’m a software developer, a writer, and an editor at an <a href="https://www.alwayscrashing.com/" target="_blank">experimental online literary magazine</a>.
 
 For as long as I can remember I’ve been interested in systems and in the connections between things, and particularly how human beings are able to turn matter, whether it’s marks on a page or electricity flowing through circuits, into meaning. 
 
@@ -32,7 +32,7 @@ Git, Agile, JUnit, Visual Studio, IntelliJ
 
 ### Contact
 
-<a href="[https://www.linkedin.com/in/james-tadd-adcox/](https://www.linkedin.com/in/james-tadd-adcox/)" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/james-tadd-adcox/" target="_blank">LinkedIn</a>
 
 <a href = "mailto: jamestaddadcox@gmail.com">Email</a>
 
