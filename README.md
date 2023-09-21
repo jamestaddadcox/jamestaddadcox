@@ -12,6 +12,8 @@ As an editor, I’ve often worked with writers whose practice includes incorpora
 
 I see coding as an artisan craft—like writing, it involves creativity, flexibility, and close attention to detail, and is a process at the end of which one has the satisfaction of having made something. 
 
+The profile photo, in case you're wondering, is from the 1981 movie *Possession*.
+
 ---
 
 ### Skills
