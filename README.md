@@ -1,6 +1,6 @@
-### James Tadd Adcox
+## James Tadd Adcox
 
-#### About Me
+### About Me
 
 I’m Tadd, and I’m a software developer, a writer, and an editor at an experimental online literary magazine.
 
@@ -14,25 +14,26 @@ I see coding as an artisan craft—like writing, it involves creativity, flexibi
 
 ---
 
-#### Skills
+### Skills
 
-Front End:
+Front End: <br>
 HTML, CSS, JavaScript, Spring Boot, Vue.js, Responsive Design, RESTful APIs
 
-Back End:
+Back End: <br>
 Java, C#, Python
 
-Database:
+Database: <br>
 SQL, PostgreSQL, SQL Server
 
-Development:
+Development: <br>
 Git, Agile, JUnit, Visual Studio, IntelliJ
 
 ---
 
-#### Contact
+### Contact
 
 <a href="[https://www.linkedin.com/in/james-tadd-adcox/](https://www.linkedin.com/in/james-tadd-adcox/)" target="_blank">LinkedIn</a>
+
 <a href = "mailto: jamestaddadcox@gmail.com">Email</a>
 
 <!--
@@ -49,4 +50,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Software developer, writer, editor, enjoyer of strange movies
