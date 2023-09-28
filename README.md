@@ -6,7 +6,7 @@ I’m Tadd, and I’m a software developer, a writer, and an editor at an <a hre
 
 For as long as I can remember I’ve been interested in systems and in the connections between things, and particularly how human beings are able to turn matter, whether it’s marks on a page or electricity flowing through circuits, into meaning. 
 
-I spent middle school and high school creating rules for elaborate games, including coding a couple of computer games that ran at a glacial speed on my graphing calculator. In college I studied linguistics, and fell in love with formal logic, teaching myself modal logic and writing short stories based on boolean operations.
+I spent middle school and high school creating rules for elaborate games, including coding a couple of computer games that ran at a glacial speed on my graphing calculator. In college I studied linguistics and fell in love with formal logic, teaching myself modal logic and writing short stories based on boolean operations.
 
 As an editor, I’ve often worked with writers whose practice includes incorporating technology into their writing—poems generated from code or datasets, stories incorporating hyperlinks and other HTML elements, works written in collaboration with AI. I love being able to publish works that can only exist online, and my interest in such work has rekindled my early interest in coding.
 
