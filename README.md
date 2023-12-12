@@ -12,6 +12,8 @@ As an editor, I’ve often worked with writers whose practice includes incorpora
 
 I see coding as an artisan craft—like writing, it involves creativity, flexibility, and close attention to detail, and is a process at the end of which one has the satisfaction of having made something. 
 
+Homepage, coded in Vue.js & hosted at GitHub Pages: <a href="https://jamestaddadcox.com/" target="_blank">jamestaddadcox.com</a>
+
 ---
 
 ### Skills
